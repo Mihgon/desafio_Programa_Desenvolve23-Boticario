@@ -1,0 +1,21 @@
+:root {
+   --cerise-color: #DB1E8C;
+   --carnation-color: #FF97D3;
+   --pickled-bluewood-color: #33475B;
+   --white-color: #FFFFFF;
+   --cornflower-color: #264FEC;
+   --off-white:#F5F5F5;
+
+   --ibm-font: 'IBM Plex Sans', sans-serif;
+   --blue: #364372;
+   --black: #000000;
+}
+
+
+body {
+   background: var(--pickled-bluewood-color);
+}
+
+footer {
+   background: var(--white-color);
+}
